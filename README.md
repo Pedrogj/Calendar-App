@@ -9,6 +9,7 @@
 - react-big-calendar
 - react-router-dom v6
 - date-fns
+- react-modal
 
 ### Backend
 
