@@ -10,6 +10,7 @@
 - react-router-dom v6
 - date-fns
 - react-modal
+- sweetalert2
 
 ### Backend
 
