@@ -11,6 +11,7 @@
 - date-fns
 - react-modal
 - sweetalert2
+- redux-toolkit
 
 ### Backend
 
